@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tebowtee.github.io/feifanen-com-cn/sitemap.xml
